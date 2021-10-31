@@ -1,0 +1,20 @@
+type: payloadLoader
+name: Payload Loader
+desctiption: Load liquids and items into blocks. A carbon copy of vanilla's loader but available in campaign.
+health: 360
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 100
+liquidCapacity: 100
+consumes: {
+  power: 2
+}
+rotate: true
+requirements: [
+  copper/100
+  graphite/50
+  silicon/50
+]
+category: distribution
