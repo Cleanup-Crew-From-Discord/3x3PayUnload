@@ -1,6 +1,6 @@
 type: payloadLoader
 name: Payload Loader
-desctiption: Load liquids and items into blocks. A carbon copy of vanilla's loader but available in campaign.
+description: Load liquids and items into blocks. A carbon copy of vanilla's loader but available in campaign.
 health: 360
 size: 3
 hasPower: true
