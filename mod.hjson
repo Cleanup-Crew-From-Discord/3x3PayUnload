@@ -1,0 +1,5 @@
+name: "[#25f12f]Payload Unloaders+[]"
+author: Cleanup Crew
+description: "[cyan]Allows the use of payload loaders and unloaders in campaign and adds larger versions for handling larger payloads.[]"
+version: 0.01
+minGameVersion: 130
